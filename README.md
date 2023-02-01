@@ -36,3 +36,17 @@ The Table incluedes the 4 different countries someone can visit.I would recommen
 > Even in hard times there's a possibility to have fun - *Soujanya*
 
 > Positive anything is better than negative nothing - *Robert*
+
+---
+
+# Code Fencing Section
+> Remove Paragraph Tags From Around Images <https://stackoverflow.com/questions/34710423/remove-p-tags-on-images-in-wordpress-posts>
+
+```
+<p>blah blah blah</p>
+
+<p><img src="monkey.jpg"></p>
+
+<p>blah blah blah</p>
+```
+Qucik link for snippet source is here <https://css-tricks.com/snippets/wordpress/remove-paragraph-tags-from-around-images/>
