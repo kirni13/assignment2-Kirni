@@ -16,4 +16,16 @@ The two important fundamental skills of table tennis are **forehand drives** and
 * Pararide
 * Spaceriders
 
-![path to AboutMe](AboutMe.md)
+[path to AboutMe](AboutMe.md)
+
+---
+
+# Table Section
+The Table incluedes the 4 different countries someone can visit.I would recommend India,China,Nepal and Srilanka to visit.These are the most popular countries in the world for tourism.
+
+| Name of a country | Reason for recommendation | No.of days to spend |
+| --- | --- | ---: |
+| India | To visit the piligrimages | 10 |
+| China | To visit China wall | 5 |
+| Nepal | To see the snow mountains | 3 |
+| Sri Lanka | To visit the beaches | 6 |
