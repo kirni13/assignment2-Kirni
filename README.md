@@ -29,3 +29,10 @@ The Table incluedes the 4 different countries someone can visit.I would recommen
 | China | To visit China wall | 5 |
 | Nepal | To see the snow mountains | 3 |
 | Sri Lanka | To visit the beaches | 6 |
+
+---
+
+# Quote Section
+> Even in hard times there's a possibility to have fun - *Soujanya*
+
+> Positive anything is better than negative nothing - *Robert*
